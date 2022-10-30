@@ -1,0 +1,3 @@
+pip install flask-sqlalchemy==2.5.1
+pip install mysql-conector-python==8.0.28
+pip install flask==2.0.2
